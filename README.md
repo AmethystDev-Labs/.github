@@ -1,0 +1,2 @@
+# .github
+Amethyst-Labs Profile
